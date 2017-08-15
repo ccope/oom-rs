@@ -1,0 +1,6 @@
+[package]
+name = "oom"
+version = "0.1.0"
+authors = ["Cam Cope <github@camcope.me>"]
+
+[dependencies]
