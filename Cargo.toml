@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Cam Cope <github@camcope.me>"]
 
 [dependencies]
+nix = { git = 'https://github.com/ccope/nix', branch = 'rlimit' }
